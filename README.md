@@ -1,6 +1,6 @@
 ## Readme
 The following repo contains the keymap files that are located in
-`~/qmk_firmware/keyboards/lily58/`
+`~/qmk_firmware/keyboards/lily58/keymaps/my-lily-keymap`
 
 ## Setup and flashing
 
